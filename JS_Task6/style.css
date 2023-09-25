@@ -1,0 +1,124 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        .body {
+            font-family: 'Lato', sans-serif;
+        }
+        
+        .s1container {
+            width: 1600px;
+            height: 75px;
+            background-color: #222222;
+        }
+        
+        .s1-link1 {
+            width: 44px;
+            height: 38px;
+            margin-left: 231px;
+        }
+        
+        .s1-link2 {
+            width: 26.002px;
+            height: 26.792px;
+            fill: #E8E8E8;
+            margin-left: 48px;
+        }
+        
+        .s1-link3 {
+            width: 158.996px;
+            height: 29px;
+            margin-left: 859px;
+        }
+        
+        .s2container {
+            width: 1600px;
+            height: 764px;
+            background-color: #F1E4E6;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .s2text {
+            margin-top: 290px;
+            margin-right: 331px;
+        }
+        
+        .s2title {
+            color: #222;
+            font-family: Lato;
+            font-size: 48px;
+            font-weight: 900;
+        }
+        
+        .s2subtitle {
+            color: #222;
+            font-family: Lato;
+            font-size: 32px;
+            font-weight: 700;
+        }
+        
+        .s2container {
+            width: 1600px;
+            height: 764px;
+            background-color: #F1E4E6;
+        }
+        
+        .section3 {
+            width: 1600px;
+        }
+        
+        .s3container {
+            width: 1140px;
+            display: flex;
+            justify-content: space-between;
+            margin-left: 230px;
+            margin-right: 230px;
+            margin-bottom: 30px;
+        }
+        
+        .s3-link {
+            width: 360px;
+            height: 260px;
+            flex-shrink: 0;
+            color: #211616B2;
+            margin-top: 65px;
+        }
+        
+        .s4container {
+            width: 1140px;
+            margin-left: 230px;
+        }
+        
+        .s5container {
+            width: 1600px;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .s5title {
+            color: #222;
+            font-family: Lato;
+            font-size: 30px;
+            font-weight: 400;
+            margin-top: 96px;
+        }
+        
+        .s5subtitle {
+            color: #9F9F9F;
+            font-family: Lato;
+            font-size: 14px;
+            font-weight: 400;
+            margin-top: 6px;
+        }
+        
+        .s6container {
+            width: 1140px;
+            display: flex;
+            justify-content: space-between;
+            margin-left: 230px;
+            margin-right: 230px;
+            margin-top: 48px;
+        }
